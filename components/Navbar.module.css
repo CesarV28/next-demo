@@ -1,0 +1,9 @@
+.menu__container {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem 0;
+}
+
+.menu__container a { 
+    font-size: 2rem;
+}
